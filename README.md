@@ -1,8 +1,6 @@
 # JWST/HST FITS Aligner
 
 Python GUI tool for preprocessing multi-filter astronomical datasets (JWST/HST).
-## Interface
-![GUI](screenshot.png) 
 
 ## Features 
 - WCS-based reprojection using FITS headers (Astropy + reproject)
