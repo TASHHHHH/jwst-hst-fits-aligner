@@ -4,7 +4,7 @@ Python GUI tool for preprocessing multi-filter astronomical datasets (JWST/HST).
 ## Interface
 ![GUI](screenshot.png) 
 
-## Features
+## Features 
 - WCS-based reprojection using FITS headers (Astropy + reproject)
 - Strict common-overlap cropping across all aligned frames
 - Median / percentile normalization across filters
